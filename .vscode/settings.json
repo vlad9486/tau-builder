@@ -1,0 +1,19 @@
+{
+    "rust-analyzer.check.command": "clippy",
+    "rust-analyzer.cargo.extraArgs": [],
+    "cSpell.words": [
+        "thiserror",
+        "opensbi",
+        "riscv",
+        "vaddr",
+        "filesz",
+        "memsz",
+        "RUSTFLAGS",
+        "imac",
+        "starfive",
+        "visionfive",
+        "olddefconfig",
+        "defconfig",
+        "HDLC",
+    ],
+}
